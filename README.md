@@ -1,2 +1,2 @@
 # rust-daisuki-lib
-move to [ep-ts](https://github.com/yuimarudev/ep-ts)
+move to [ts-empower](https://github.com/yuimarudev/ts-empower)
